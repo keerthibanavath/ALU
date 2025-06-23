@@ -41,3 +41,5 @@ Learning Outcomes:-
 4. Debugging Skills: Debugging using simulation output helped me learn how to trace errors and fix logic bugs in HDL designs.
 Conclusion:-
 The ALU task on CodeTech, combined with the use of Icarus Verilog 12.0, was a valuable learning experience that strengthened my understanding of digital design and HDL simulation. It introduced me to the real-world development workflow of designing and testing processor components. This task not only improved my technical skills but also built confidence in working with industry-standard tools.
+
+#OUTPUT:-  ![Image](https://github.com/user-attachments/assets/97a6d0c8-2b51-4b82-a245-c124e495db72)
